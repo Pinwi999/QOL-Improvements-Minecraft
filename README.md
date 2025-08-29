@@ -10,7 +10,7 @@ A custom Minecraft 1.21 modpack with 13 mods.
 - [See full list here](mods/)
 
 ## Installation
-1. Download the `.mrpack` from [Modrinth]((https://modrinth.com/project/dqhKZWmZ)).
+1. Download the `.mrpack` from [Modrinth](https://modrinth.com/project/dqhKZWmZ).
 2. Import into Prism Launcher (or any Modrinth-compatible launcher).
 3. Enjoy 🎮
 
